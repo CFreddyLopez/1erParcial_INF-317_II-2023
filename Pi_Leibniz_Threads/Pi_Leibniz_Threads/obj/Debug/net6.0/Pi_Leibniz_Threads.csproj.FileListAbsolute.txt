@@ -1,0 +1,15 @@
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\bin\Debug\net6.0\Pi_Leibniz_Threads.exe
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\bin\Debug\net6.0\Pi_Leibniz_Threads.deps.json
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\bin\Debug\net6.0\Pi_Leibniz_Threads.runtimeconfig.json
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\bin\Debug\net6.0\Pi_Leibniz_Threads.dll
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\bin\Debug\net6.0\Pi_Leibniz_Threads.pdb
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\Pi_Leibniz_Threads.csproj.AssemblyReference.cache
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\Pi_Leibniz_Threads.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\Pi_Leibniz_Threads.AssemblyInfoInputs.cache
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\Pi_Leibniz_Threads.AssemblyInfo.cs
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\Pi_Leibniz_Threads.csproj.CoreCompileInputs.cache
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\Pi_Leibniz_Threads.dll
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\refint\Pi_Leibniz_Threads.dll
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\Pi_Leibniz_Threads.pdb
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\Pi_Leibniz_Threads.genruntimeconfig.cache
+E:\University\INF-317 Programacion Paralela\1erParcial_INF-317_II-2023\Pi_Leibniz_Threads\Pi_Leibniz_Threads\obj\Debug\net6.0\ref\Pi_Leibniz_Threads.dll
