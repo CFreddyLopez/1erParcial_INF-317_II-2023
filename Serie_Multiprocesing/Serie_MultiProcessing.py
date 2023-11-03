@@ -25,7 +25,7 @@ def generar_serie(start, end):
     return serie_parte
 
 if __name__ == '__main__':
-    n = 20  
+    n = 10000  
     num_processes = 2  
     pool = multiprocessing.Pool(processes=num_processes)
     ranges = [(i, i + n // num_processes) for i in range(0, n, n // num_processes)]
